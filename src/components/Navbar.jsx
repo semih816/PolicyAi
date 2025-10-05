@@ -4,7 +4,7 @@ export default function PolicyResultModal({ }) {
         <div className="max-w-6xl mx-auto px-6 py-3 flex justify-between items-center">
           <h1 className="text-white text-2xl font-bold">PolicyAI</h1>
           <a
-            href="https://www.buymeacoffee.com/username"
+            href="https://buymeacoffee.com/smh.dev"
             target="_blank"
             className="text-white px-4 py-2 rounded-lg bg-white/10 border border-white/20 hover:bg-white/20 transition"
           >
